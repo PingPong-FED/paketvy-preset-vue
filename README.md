@@ -7,7 +7,7 @@
 npm install -g @vue/cli
 
 # 根据远程 preset 创建项目
-vue create --preset PingPong-FED/paketvy-preset-vue
+vue create --preset PingPong-FED/paketvy-preset-vue my-project
 
 # 本地预览
 cd my-project && yarn serve
